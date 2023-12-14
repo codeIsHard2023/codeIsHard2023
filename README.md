@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeIsHard2023
+- 👋 Hi, I’m Vladyslav
 - 👀 I’m interested in web development, building internet sites and applications. I'm starting a new chapter in my life: "IT industry".
 - 🌱 I’m currently learning HTML, CSS & JS. 
 - 💞️ I’m looking to collaborate on web development learning starting from a very basic level and progressing together to advanced developers. 
